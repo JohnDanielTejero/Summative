@@ -24,7 +24,6 @@ public class Main{
         newTest(Davis);
         Davis.getResult();/*Get the result*/
         Davis.getResult();
-
     }
 
     public static void newTest(Student student){
